@@ -3,7 +3,7 @@ Simple collection of scripts to organize olinfo user information in an sqlite da
 
 # Requirements
 
-Python 3/n
+Python 3\n
 Git
 
 # Usage
